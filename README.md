@@ -1,4 +1,8 @@
-# DungeonRunner
+#Authors
+Jainam Doshi
+Ritvik Dutta
+
+## DungeonRunner
 Video Game Development for a Mimic or the Indie Game ROTMG
 
 
