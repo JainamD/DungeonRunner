@@ -1,5 +1,5 @@
 # Authors
-Jainam Doshi
+Jainam Doshi<br />
 Ritvik Dutta
 
 ## DungeonRunner
